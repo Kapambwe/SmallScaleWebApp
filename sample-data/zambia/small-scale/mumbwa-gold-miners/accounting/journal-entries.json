@@ -1,0 +1,59 @@
+[
+  {
+    "id": "JE-001",
+    "entryNumber": "JE-2024-001",
+    "description": "Sale of emeralds to Gemstone International Ltd",
+    "entryDate": "2024-10-20",
+    "status": "Posted",
+    "totalDebit": 10000,
+    "totalCredit": 10000,
+    "lines": [
+      { "accountId": "1010", "accountName": "Bank - First National Bank Zambia", "debit": 10000, "credit": 0, "description": "Payment received for emerald sale SALE-001" },
+      { "accountId": "4000", "accountName": "Emerald Sales Revenue", "debit": 0, "credit": 10000, "description": "Revenue from emerald sale SALE-001" }
+    ],
+    "createdBy": "admin.kyawama-emerald"
+  },
+  {
+    "id": "JE-002",
+    "entryNumber": "JE-2024-002",
+    "description": "Royalty payment to ZCCM-IH for October production",
+    "entryDate": "2024-10-31",
+    "status": "Posted",
+    "totalDebit": 1000,
+    "totalCredit": 1000,
+    "lines": [
+      { "accountId": "6300", "accountName": "Royalties Expense", "debit": 1000, "credit": 0, "description": "10% royalty on emerald sales October 2024" },
+      { "accountId": "1010", "accountName": "Bank - First National Bank Zambia", "debit": 0, "credit": 1000, "description": "Royalty paid to ZCCM-IH" }
+    ],
+    "createdBy": "accountant.kyawama-emerald"
+  },
+  {
+    "id": "JE-003",
+    "entryNumber": "JE-2024-003",
+    "description": "Monthly labour costs for mining team",
+    "entryDate": "2024-10-31",
+    "status": "Posted",
+    "totalDebit": 4200,
+    "totalCredit": 4200,
+    "lines": [
+      { "accountId": "6000", "accountName": "Labour Costs", "debit": 4200, "credit": 0, "description": "Wages for 14 miners - October 2024" },
+      { "accountId": "1010", "accountName": "Bank - First National Bank Zambia", "debit": 0, "credit": 4200, "description": "Labour costs paid via mobile money" }
+    ],
+    "createdBy": "accountant.kyawama-emerald"
+  },
+  {
+    "id": "JE-004",
+    "entryNumber": "JE-2024-004",
+    "description": "Fuel and equipment maintenance expenses",
+    "entryDate": "2024-11-05",
+    "status": "Posted",
+    "totalDebit": 1800,
+    "totalCredit": 1800,
+    "lines": [
+      { "accountId": "6200", "accountName": "Fuel and Utilities", "debit": 1200, "credit": 0, "description": "Diesel for generators and equipment" },
+      { "accountId": "6100", "accountName": "Site Maintenance", "debit": 600, "credit": 0, "description": "Drill bit replacements and servicing" },
+      { "accountId": "1000", "accountName": "Cash", "debit": 0, "credit": 1800, "description": "Cash payment for fuel and maintenance" }
+    ],
+    "createdBy": "accountant.kyawama-emerald"
+  }
+]

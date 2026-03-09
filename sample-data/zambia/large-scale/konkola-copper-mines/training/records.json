@@ -1,0 +1,41 @@
+[
+  {
+    "id": "TRN-030",
+    "trainingTitle": "Underground Mine Rescue and Emergency Response",
+    "description": "Advanced emergency rescue protocols for deep underground mining operations",
+    "trainer": "Mine Rescue Association of Zambia",
+    "trainingDate": "2024-06-15",
+    "location": "Konkola Mine Safety Training Centre",
+    "durationHours": 40,
+    "participants": ["EMP-001", "EMP-002"],
+    "passRate": 100,
+    "certificatesIssued": 2,
+    "isCompleted": true
+  },
+  {
+    "id": "TRN-031",
+    "trainingTitle": "Environmental Management for Large Scale Mining",
+    "description": "ISO 14001 environmental management system implementation and monitoring",
+    "trainer": "Zambia Environmental Management Agency",
+    "trainingDate": "2024-08-20",
+    "location": "Lusaka Conference Centre",
+    "durationHours": 24,
+    "participants": ["EMP-001"],
+    "passRate": 100,
+    "certificatesIssued": 1,
+    "isCompleted": true
+  },
+  {
+    "id": "TRN-032",
+    "trainingTitle": "Copper Smelting and Refinery Operations",
+    "description": "Advanced copper processing from ore to refined cathode copper",
+    "trainer": "Copperbelt Energy Corporation",
+    "trainingDate": "2024-10-01",
+    "location": "Nkana Smelter Training Facility",
+    "durationHours": 32,
+    "participants": ["EMP-001", "EMP-002"],
+    "passRate": 100,
+    "certificatesIssued": 2,
+    "isCompleted": true
+  }
+]

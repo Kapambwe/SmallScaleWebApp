@@ -1,0 +1,20 @@
+[
+  { "id": "1000", "accountNumber": "1000", "accountName": "Cash", "type": "Asset", "subType": "Cash", "balance": 18500, "isActive": true },
+  { "id": "1010", "accountNumber": "1010", "accountName": "Bank - First National Bank Zambia", "type": "Asset", "subType": "Bank", "balance": 42000, "isActive": true },
+  { "id": "1100", "accountNumber": "1100", "accountName": "Accounts Receivable", "type": "Asset", "subType": "AccountsReceivable", "balance": 9000, "isActive": true },
+  { "id": "1200", "accountNumber": "1200", "accountName": "Emerald Inventory", "type": "Asset", "subType": "Inventory", "balance": 6000, "isActive": true },
+  { "id": "1500", "accountNumber": "1500", "accountName": "Mining Equipment", "type": "Asset", "subType": "FixedAssets", "balance": 15700, "isActive": true },
+  { "id": "1510", "accountNumber": "1510", "accountName": "Accumulated Depreciation - Equipment", "type": "Asset", "subType": "AccumulatedDepreciation", "balance": -3140, "isActive": true },
+  { "id": "2000", "accountNumber": "2000", "accountName": "Accounts Payable", "type": "Liability", "subType": "AccountsPayable", "balance": 4200, "isActive": true },
+  { "id": "2300", "accountNumber": "2300", "accountName": "Royalties Payable", "type": "Liability", "subType": "TaxPayable", "balance": 720, "isActive": true },
+  { "id": "2500", "accountNumber": "2500", "accountName": "Equipment Loan", "type": "Liability", "subType": "LoanPayable", "balance": 6000, "isActive": true },
+  { "id": "3000", "accountNumber": "3000", "accountName": "Cooperative Members' Capital", "type": "Equity", "subType": "OwnerEquity", "balance": 45000, "isActive": true },
+  { "id": "3100", "accountNumber": "3100", "accountName": "Retained Earnings", "type": "Equity", "subType": "RetainedEarnings", "balance": 26140, "isActive": true },
+  { "id": "4000", "accountNumber": "4000", "accountName": "Emerald Sales Revenue", "type": "Income", "subType": "SalesRevenue", "balance": 17200, "isActive": true },
+  { "id": "5000", "accountNumber": "5000", "accountName": "Cost of Mining Operations", "type": "CostOfGoodsSold", "subType": "MaterialCosts", "balance": 5160, "isActive": true },
+  { "id": "6000", "accountNumber": "6000", "accountName": "Labour Costs", "type": "Expense", "subType": "SalariesAndWages", "balance": 8400, "isActive": true },
+  { "id": "6100", "accountNumber": "6100", "accountName": "Site Maintenance", "type": "Expense", "subType": "RepairsAndMaintenance", "balance": 1200, "isActive": true },
+  { "id": "6200", "accountNumber": "6200", "accountName": "Fuel and Utilities", "type": "Expense", "subType": "UtilitiesExpense", "balance": 2400, "isActive": true },
+  { "id": "6300", "accountNumber": "6300", "accountName": "Royalties Expense", "type": "Expense", "subType": "TaxExpense", "balance": 1720, "isActive": true },
+  { "id": "6400", "accountNumber": "6400", "accountName": "Depreciation Expense", "type": "Expense", "subType": "DepreciationExpense", "balance": 1570, "isActive": true }
+]

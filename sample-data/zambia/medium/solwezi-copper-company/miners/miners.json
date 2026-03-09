@@ -1,0 +1,20 @@
+[
+  {
+    "id": "EMP-001", "fullName": "David Musonda", "nationalId": "778899/01/1",
+    "province": "North-Western", "district": "Solwezi",
+    "phoneNumber": "+260977778899", "email": "d.musonda@solwezi-copper.zm",
+    "primaryMiningType": "Copper", "yearsOfExperience": 15,
+    "licenseNumber": "MED-NW-2024-001", "licenseStatus": "Active",
+    "monthlyIncomeEstimate": 12000, "status": "Active",
+    "hasSafetyEquipment": true, "safetyTrainingCompleted": ["Advanced Safety", "First Aid", "Blasting"]
+  },
+  {
+    "id": "EMP-002", "fullName": "Patricia Sakala", "nationalId": "889900/02/1",
+    "province": "North-Western", "district": "Solwezi",
+    "phoneNumber": "+260966889900", "email": "p.sakala@solwezi-copper.zm",
+    "primaryMiningType": "Copper", "yearsOfExperience": 10,
+    "licenseNumber": "MED-NW-2024-002", "licenseStatus": "Active",
+    "monthlyIncomeEstimate": 9500, "status": "Active",
+    "hasSafetyEquipment": true, "safetyTrainingCompleted": ["Advanced Safety", "First Aid"]
+  }
+]

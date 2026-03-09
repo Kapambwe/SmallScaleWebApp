@@ -1,0 +1,36 @@
+{
+  "zambia": {
+    "small-scale": [
+      "kyawama-emerald-cooperative",
+      "mumbwa-gold-miners"
+    ],
+    "medium": [
+      "solwezi-copper-company"
+    ],
+    "large-scale": [
+      "konkola-copper-mines"
+    ]
+  },
+  "drc": {
+    "small-scale": [
+      "katanga-artisanal-miners"
+    ],
+    "medium": [
+      "lubumbashi-copper-processing"
+    ],
+    "large-scale": [
+      "glencore-katanga-mining"
+    ]
+  },
+  "south-africa": {
+    "small-scale": [
+      "witwatersrand-artisanal-gold"
+    ],
+    "medium": [
+      "kimberley-diamond-company"
+    ],
+    "large-scale": [
+      "sibanye-stillwater-gold"
+    ]
+  }
+}

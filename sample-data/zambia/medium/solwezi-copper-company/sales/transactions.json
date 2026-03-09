@@ -1,0 +1,19 @@
+[
+  {
+    "id": "SALE-020",
+    "transactionDate": "2024-11-05",
+    "mineralType": "Copper",
+    "quantityKg": 11000,
+    "unitPriceUsd": 9.50,
+    "totalValueUsd": 104500,
+    "buyerName": "Zambia Consolidated Copper Sales",
+    "buyerLicenseNumber": "BUYER-ZM-020",
+    "siteId": "SITE-020",
+    "minerId": "EMP-001",
+    "status": "Completed",
+    "royaltyDeducted": 15675,
+    "netProceeds": 88825,
+    "paymentMethod": "BankTransfer",
+    "currency": "USD"
+  }
+]

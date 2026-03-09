@@ -1,0 +1,17 @@
+[
+  {
+    "id": "PROD-010",
+    "siteId": "SITE-010",
+    "siteName": "Chitanda Gold Alluvial Site",
+    "mineralType": "Gold",
+    "quantityKg": 0.085,
+    "gradeCategory": "24K",
+    "productionDate": "2024-10-31",
+    "recordedBy": "MIN-010",
+    "reportedToAuthority": true,
+    "royaltyPaid": true,
+    "royaltyAmount": 425,
+    "estimatedValue": 5100,
+    "notes": "Monthly alluvial gold extraction"
+  }
+]

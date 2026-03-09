@@ -1,0 +1,47 @@
+[
+  {
+    "id": "EQP-001",
+    "name": "Rock Drill Model 300",
+    "type": "Drilling",
+    "manufacturer": "Atlas Copco",
+    "serialNumber": "AC-RD-2022-001",
+    "purchaseDate": "2022-03-01",
+    "purchasePrice": 8500,
+    "currentCondition": "Good",
+    "lastMaintenanceDate": "2024-09-01",
+    "nextMaintenanceDue": "2025-03-01",
+    "assignedSiteId": "SITE-001",
+    "isOperational": true,
+    "notes": "Primary drilling equipment for Site A"
+  },
+  {
+    "id": "EQP-002",
+    "name": "Water Pump 5HP",
+    "type": "Pumping",
+    "manufacturer": "Grundfos",
+    "serialNumber": "GF-WP-2023-012",
+    "purchaseDate": "2023-01-15",
+    "purchasePrice": 2200,
+    "currentCondition": "Good",
+    "lastMaintenanceDate": "2024-10-01",
+    "nextMaintenanceDue": "2025-04-01",
+    "assignedSiteId": "SITE-001",
+    "isOperational": true,
+    "notes": "Used for dewatering operations"
+  },
+  {
+    "id": "EQP-003",
+    "name": "Generator 15kVA",
+    "type": "Power",
+    "manufacturer": "Cummins",
+    "serialNumber": "CU-GEN-2021-043",
+    "purchaseDate": "2021-06-20",
+    "purchasePrice": 5000,
+    "currentCondition": "Fair",
+    "lastMaintenanceDate": "2024-07-01",
+    "nextMaintenanceDue": "2025-01-01",
+    "assignedSiteId": "SITE-002",
+    "isOperational": true,
+    "notes": "Shared between both sites on rotation"
+  }
+]

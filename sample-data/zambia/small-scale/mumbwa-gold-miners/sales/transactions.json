@@ -1,0 +1,19 @@
+[
+  {
+    "id": "SALE-010",
+    "transactionDate": "2024-11-01",
+    "mineralType": "Gold",
+    "quantityKg": 0.080,
+    "unitPriceUsd": 60000,
+    "totalValueUsd": 4800,
+    "buyerName": "Zambia Gold Dealers Association",
+    "buyerLicenseNumber": "BUYER-ZM-010",
+    "siteId": "SITE-010",
+    "minerId": "MIN-010",
+    "status": "Completed",
+    "royaltyDeducted": 480,
+    "netProceeds": 4320,
+    "paymentMethod": "MobileMoney",
+    "currency": "USD"
+  }
+]

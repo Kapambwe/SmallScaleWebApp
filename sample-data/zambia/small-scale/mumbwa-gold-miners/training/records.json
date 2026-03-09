@@ -1,0 +1,41 @@
+[
+  {
+    "id": "TRN-001",
+    "trainingTitle": "Basic Mine Safety",
+    "description": "Foundational safety training for all mining personnel",
+    "trainer": "Zambia Mine Safety Institute",
+    "trainingDate": "2024-06-01",
+    "location": "Solwezi Community Hall",
+    "durationHours": 8,
+    "participants": ["MIN-001", "MIN-002", "MIN-003"],
+    "passRate": 95,
+    "certificatesIssued": 3,
+    "isCompleted": true
+  },
+  {
+    "id": "TRN-002",
+    "trainingTitle": "First Aid and Emergency Response",
+    "description": "Emergency first aid procedures for mine site incidents",
+    "trainer": "Red Cross Zambia",
+    "trainingDate": "2024-08-15",
+    "location": "Kyawama Site Office",
+    "durationHours": 6,
+    "participants": ["MIN-001", "MIN-002"],
+    "passRate": 100,
+    "certificatesIssued": 2,
+    "isCompleted": true
+  },
+  {
+    "id": "TRN-003",
+    "trainingTitle": "Emerald Grading and Valuation",
+    "description": "Gemstone quality assessment and international grading standards",
+    "trainer": "Gemological Institute of Zambia",
+    "trainingDate": "2024-09-20",
+    "location": "Lusaka Training Centre",
+    "durationHours": 16,
+    "participants": ["MIN-001", "MIN-002"],
+    "passRate": 100,
+    "certificatesIssued": 2,
+    "isCompleted": true
+  }
+]

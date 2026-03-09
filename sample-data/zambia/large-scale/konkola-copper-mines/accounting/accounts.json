@@ -1,0 +1,21 @@
+[
+  { "id": "1000", "accountNumber": "1000", "accountName": "Cash and Cash Equivalents", "type": "Asset", "subType": "Cash", "balance": 2850000, "isActive": true },
+  { "id": "1010", "accountNumber": "1010", "accountName": "Bank - Stanbic Bank Zambia", "type": "Asset", "subType": "Bank", "balance": 8500000, "isActive": true },
+  { "id": "1100", "accountNumber": "1100", "accountName": "Trade Receivables", "type": "Asset", "subType": "AccountsReceivable", "balance": 6664000, "isActive": true },
+  { "id": "1200", "accountNumber": "1200", "accountName": "Copper Cathode Inventory", "type": "Asset", "subType": "Inventory", "balance": 850000, "isActive": true },
+  { "id": "1500", "accountNumber": "1500", "accountName": "Mining Infrastructure and Equipment", "type": "Asset", "subType": "FixedAssets", "balance": 125000000, "isActive": true },
+  { "id": "1510", "accountNumber": "1510", "accountName": "Accumulated Depreciation", "type": "Asset", "subType": "AccumulatedDepreciation", "balance": -25000000, "isActive": true },
+  { "id": "2000", "accountNumber": "2000", "accountName": "Trade Payables", "type": "Liability", "subType": "AccountsPayable", "balance": 3200000, "isActive": true },
+  { "id": "2300", "accountNumber": "2300", "accountName": "Mining Royalties Payable", "type": "Liability", "subType": "TaxPayable", "balance": 1275000, "isActive": true },
+  { "id": "2400", "accountNumber": "2400", "accountName": "Income Tax Payable", "type": "Liability", "subType": "TaxPayable", "balance": 980000, "isActive": true },
+  { "id": "2500", "accountNumber": "2500", "accountName": "Syndicated Loan Facility", "type": "Liability", "subType": "LoanPayable", "balance": 45000000, "isActive": true },
+  { "id": "3000", "accountNumber": "3000", "accountName": "Share Capital", "type": "Equity", "subType": "OwnerEquity", "balance": 50000000, "isActive": true },
+  { "id": "3100", "accountNumber": "3100", "accountName": "Retained Earnings", "type": "Equity", "subType": "RetainedEarnings", "balance": 18609000, "isActive": true },
+  { "id": "4000", "accountNumber": "4000", "accountName": "Copper Sales Revenue", "type": "Income", "subType": "SalesRevenue", "balance": 7840000, "isActive": true },
+  { "id": "5000", "accountNumber": "5000", "accountName": "Cost of Copper Production", "type": "CostOfGoodsSold", "subType": "MaterialCosts", "balance": 2352000, "isActive": true },
+  { "id": "6000", "accountNumber": "6000", "accountName": "Employee Costs", "type": "Expense", "subType": "SalariesAndWages", "balance": 1850000, "isActive": true },
+  { "id": "6100", "accountNumber": "6100", "accountName": "Infrastructure Maintenance", "type": "Expense", "subType": "RepairsAndMaintenance", "balance": 620000, "isActive": true },
+  { "id": "6200", "accountNumber": "6200", "accountName": "Energy and Utilities", "type": "Expense", "subType": "UtilitiesExpense", "balance": 980000, "isActive": true },
+  { "id": "6300", "accountNumber": "6300", "accountName": "Mineral Royalties", "type": "Expense", "subType": "TaxExpense", "balance": 1275000, "isActive": true },
+  { "id": "6400", "accountNumber": "6400", "accountName": "Depreciation", "type": "Expense", "subType": "DepreciationExpense", "balance": 2500000, "isActive": true }
+]

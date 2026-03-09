@@ -1,0 +1,44 @@
+[
+  {
+    "id": "JE-020",
+    "entryNumber": "JE-2024-020",
+    "description": "Sale of copper ore to Zambia Consolidated Copper Sales",
+    "entryDate": "2024-11-05",
+    "status": "Posted",
+    "totalDebit": 104500,
+    "totalCredit": 104500,
+    "lines": [
+      { "accountId": "1100", "accountName": "Accounts Receivable", "debit": 104500, "credit": 0, "description": "Copper sale SALE-020 - awaiting payment" },
+      { "accountId": "4000", "accountName": "Copper Sales Revenue", "debit": 0, "credit": 104500, "description": "Revenue from copper ore sale SALE-020" }
+    ],
+    "createdBy": "cfo.solwezi-copper"
+  },
+  {
+    "id": "JE-021",
+    "entryNumber": "JE-2024-021",
+    "description": "Monthly royalty payment to ZCCM-IH for October production",
+    "entryDate": "2024-10-31",
+    "status": "Posted",
+    "totalDebit": 28950,
+    "totalCredit": 28950,
+    "lines": [
+      { "accountId": "6300", "accountName": "Royalties Expense", "debit": 28950, "credit": 0, "description": "15% mineral royalty on copper sales" },
+      { "accountId": "2300", "accountName": "Mining Royalties Payable", "debit": 0, "credit": 28950, "description": "Royalty payable to ZCCM-IH" }
+    ],
+    "createdBy": "cfo.solwezi-copper"
+  },
+  {
+    "id": "JE-022",
+    "entryNumber": "JE-2024-022",
+    "description": "Monthly payroll for mining staff - October 2024",
+    "entryDate": "2024-10-31",
+    "status": "Posted",
+    "totalDebit": 38400,
+    "totalCredit": 38400,
+    "lines": [
+      { "accountId": "6000", "accountName": "Labour and Wages", "debit": 38400, "credit": 0, "description": "Wages for 128 employees October 2024" },
+      { "accountId": "1010", "accountName": "Bank - Standard Bank Zambia", "debit": 0, "credit": 38400, "description": "Payroll disbursement" }
+    ],
+    "createdBy": "cfo.solwezi-copper"
+  }
+]

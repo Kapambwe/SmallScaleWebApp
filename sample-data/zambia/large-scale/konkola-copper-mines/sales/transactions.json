@@ -1,0 +1,20 @@
+[
+  {
+    "id": "SALE-030",
+    "transactionDate": "2024-11-10",
+    "mineralType": "Copper",
+    "quantityKg": 800000,
+    "unitPriceUsd": 9.80,
+    "totalValueUsd": 7840000,
+    "buyerName": "Glencore International AG",
+    "buyerLicenseNumber": "BUYER-INT-001",
+    "siteId": "SITE-030",
+    "minerId": "EMP-001",
+    "status": "Completed",
+    "exportCertificateNumber": "EXP-2024-1892",
+    "royaltyDeducted": 1176000,
+    "netProceeds": 6664000,
+    "paymentMethod": "BankTransfer",
+    "currency": "USD"
+  }
+]

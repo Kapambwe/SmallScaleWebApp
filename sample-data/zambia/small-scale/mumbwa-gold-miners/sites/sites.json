@@ -1,0 +1,25 @@
+[
+  {
+    "id": "SITE-010",
+    "siteName": "Chitanda Gold Alluvial Site",
+    "province": "Central",
+    "district": "Mumbwa",
+    "village": "Chitanda",
+    "latitude": -14.9827,
+    "longitude": 27.0626,
+    "elevation": 1180,
+    "primaryMineral": "Gold",
+    "areaInHectares": 4.0,
+    "minerId": "MIN-010",
+    "minerName": "Mary Phiri",
+    "cooperativeId": "COOP-002",
+    "status": "Active",
+    "registeredDate": "2024-01-10",
+    "lastInspectionDate": "2024-07-20",
+    "licenseNumber": "ASM-CT-2024-012",
+    "licenseExpiryDate": "2025-01-09",
+    "hasEnvironmentalClearance": true,
+    "hasSafetyCompliance": true,
+    "numberOfWorkers": 10
+  }
+]

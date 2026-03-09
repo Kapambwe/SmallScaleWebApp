@@ -1,0 +1,26 @@
+[
+  {
+    "username": "admin.mumbwa-gold",
+    "password": "admin123",
+    "displayName": "Site Administrator",
+    "role": "Administrator"
+  },
+  {
+    "username": "accountant.mumbwa-gold",
+    "password": "acct123",
+    "displayName": "Mine Accountant",
+    "role": "Accountant"
+  },
+  {
+    "username": "supervisor.mumbwa-gold",
+    "password": "sup123",
+    "displayName": "Mine Supervisor",
+    "role": "Supervisor"
+  },
+  {
+    "username": "operator.mumbwa-gold",
+    "password": "op123",
+    "displayName": "Mine Operator",
+    "role": "Operator"
+  }
+]

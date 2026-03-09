@@ -1,0 +1,7 @@
+[
+  { "username": "admin.konkola", "password": "admin123", "displayName": "CEO / Managing Director", "role": "Administrator" },
+  { "username": "cfo.konkola", "password": "cfo123", "displayName": "Chief Financial Officer", "role": "CFO" },
+  { "username": "coo.konkola", "password": "coo123", "displayName": "Chief Operations Officer", "role": "COO" },
+  { "username": "manager.konkola", "password": "mgr123", "displayName": "Production Manager", "role": "Manager" },
+  { "username": "auditor.konkola", "password": "aud123", "displayName": "Internal Auditor", "role": "Auditor" }
+]

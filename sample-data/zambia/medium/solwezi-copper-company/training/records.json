@@ -1,0 +1,28 @@
+[
+  {
+    "id": "TRN-020",
+    "trainingTitle": "Advanced Mine Safety and Risk Management",
+    "description": "Comprehensive safety protocols for underground and open-pit copper mining",
+    "trainer": "Zambia Mine Safety Institute",
+    "trainingDate": "2024-07-01",
+    "location": "Solwezi Training Centre",
+    "durationHours": 16,
+    "participants": ["EMP-001", "EMP-002"],
+    "passRate": 100,
+    "certificatesIssued": 2,
+    "isCompleted": true
+  },
+  {
+    "id": "TRN-021",
+    "trainingTitle": "Copper Ore Processing and Quality Control",
+    "description": "Ore grade assessment, flotation and smelting processes",
+    "trainer": "Copperbelt University Mining Faculty",
+    "trainingDate": "2024-09-10",
+    "location": "Kitwe Campus",
+    "durationHours": 24,
+    "participants": ["EMP-001"],
+    "passRate": 100,
+    "certificatesIssued": 1,
+    "isCompleted": true
+  }
+]

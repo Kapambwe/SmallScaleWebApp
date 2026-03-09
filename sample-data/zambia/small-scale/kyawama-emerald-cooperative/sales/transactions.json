@@ -1,0 +1,38 @@
+[
+  {
+    "id": "SALE-001",
+    "transactionDate": "2024-10-20",
+    "mineralType": "Emeralds",
+    "quantityKg": 2.0,
+    "unitPriceUsd": 5000,
+    "totalValueUsd": 10000,
+    "buyerName": "Gemstone International Ltd",
+    "buyerLicenseNumber": "BUYER-ZM-001",
+    "siteId": "SITE-001",
+    "minerId": "MIN-001",
+    "status": "Completed",
+    "exportCertificateNumber": "EXP-2024-0234",
+    "royaltyDeducted": 1000,
+    "netProceeds": 9000,
+    "paymentMethod": "BankTransfer",
+    "currency": "USD"
+  },
+  {
+    "id": "SALE-002",
+    "transactionDate": "2024-11-05",
+    "mineralType": "Emeralds",
+    "quantityKg": 1.5,
+    "unitPriceUsd": 4800,
+    "totalValueUsd": 7200,
+    "buyerName": "Zambia Gems Exports",
+    "buyerLicenseNumber": "BUYER-ZM-005",
+    "siteId": "SITE-002",
+    "minerId": "MIN-002",
+    "status": "Completed",
+    "exportCertificateNumber": "EXP-2024-0278",
+    "royaltyDeducted": 720,
+    "netProceeds": 6480,
+    "paymentMethod": "MobileMoney",
+    "currency": "USD"
+  }
+]

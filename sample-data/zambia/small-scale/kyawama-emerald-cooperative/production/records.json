@@ -1,0 +1,47 @@
+[
+  {
+    "id": "PROD-001",
+    "siteId": "SITE-001",
+    "siteName": "Kyawama Emerald Site A",
+    "mineralType": "Emeralds",
+    "quantityKg": 2.5,
+    "gradeCategory": "AAA",
+    "productionDate": "2024-10-15",
+    "recordedBy": "MIN-001",
+    "reportedToAuthority": true,
+    "royaltyPaid": true,
+    "royaltyAmount": 875,
+    "estimatedValue": 12500,
+    "notes": "High quality beryl found in eastern shaft"
+  },
+  {
+    "id": "PROD-002",
+    "siteId": "SITE-001",
+    "siteName": "Kyawama Emerald Site A",
+    "mineralType": "Emeralds",
+    "quantityKg": 1.8,
+    "gradeCategory": "AA",
+    "productionDate": "2024-11-01",
+    "recordedBy": "MIN-001",
+    "reportedToAuthority": true,
+    "royaltyPaid": true,
+    "royaltyAmount": 630,
+    "estimatedValue": 9000,
+    "notes": "Monthly production batch"
+  },
+  {
+    "id": "PROD-003",
+    "siteId": "SITE-002",
+    "siteName": "Kyawama Emerald Site B",
+    "mineralType": "Emeralds",
+    "quantityKg": 1.2,
+    "gradeCategory": "A",
+    "productionDate": "2024-11-10",
+    "recordedBy": "MIN-002",
+    "reportedToAuthority": true,
+    "royaltyPaid": false,
+    "royaltyAmount": 0,
+    "estimatedValue": 6000,
+    "notes": "Pending royalty payment"
+  }
+]

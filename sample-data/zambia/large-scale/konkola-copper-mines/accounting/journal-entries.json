@@ -1,0 +1,44 @@
+[
+  {
+    "id": "JE-030",
+    "entryNumber": "JE-2024-030",
+    "description": "Copper cathode sale to Glencore International AG",
+    "entryDate": "2024-11-10",
+    "status": "Posted",
+    "totalDebit": 7840000,
+    "totalCredit": 7840000,
+    "lines": [
+      { "accountId": "1100", "accountName": "Trade Receivables", "debit": 7840000, "credit": 0, "description": "Receivable from Glencore SALE-030" },
+      { "accountId": "4000", "accountName": "Copper Sales Revenue", "debit": 0, "credit": 7840000, "description": "Revenue from LME copper cathode sale" }
+    ],
+    "createdBy": "cfo.konkola"
+  },
+  {
+    "id": "JE-031",
+    "entryNumber": "JE-2024-031",
+    "description": "October mineral royalty accrual",
+    "entryDate": "2024-10-31",
+    "status": "Posted",
+    "totalDebit": 1275000,
+    "totalCredit": 1275000,
+    "lines": [
+      { "accountId": "6300", "accountName": "Mineral Royalties", "debit": 1275000, "credit": 0, "description": "15% royalty on copper production value" },
+      { "accountId": "2300", "accountName": "Mining Royalties Payable", "debit": 0, "credit": 1275000, "description": "Royalty accrual payable to GRZ" }
+    ],
+    "createdBy": "cfo.konkola"
+  },
+  {
+    "id": "JE-032",
+    "entryNumber": "JE-2024-032",
+    "description": "October payroll for all mining personnel",
+    "entryDate": "2024-10-31",
+    "status": "Posted",
+    "totalDebit": 1850000,
+    "totalCredit": 1850000,
+    "lines": [
+      { "accountId": "6000", "accountName": "Employee Costs", "debit": 1850000, "credit": 0, "description": "Wages and salaries for 2,470 employees" },
+      { "accountId": "1010", "accountName": "Bank - Stanbic Bank Zambia", "debit": 0, "credit": 1850000, "description": "Payroll processed via EFT" }
+    ],
+    "createdBy": "cfo.konkola"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "username": "admin.solwezi-copper", "password": "admin123", "displayName": "Mine Director", "role": "Administrator" },
+  { "username": "cfo.solwezi-copper", "password": "cfo123", "displayName": "Chief Financial Officer", "role": "CFO" },
+  { "username": "manager.solwezi-copper", "password": "mgr123", "displayName": "Operations Manager", "role": "Manager" },
+  { "username": "geologist.solwezi-copper", "password": "geo123", "displayName": "Senior Geologist", "role": "Geologist" },
+  { "username": "safety.solwezi-copper", "password": "saf123", "displayName": "Safety Officer", "role": "SafetyOfficer" }
+]

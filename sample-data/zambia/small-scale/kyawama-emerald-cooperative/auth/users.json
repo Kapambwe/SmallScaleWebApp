@@ -1,0 +1,26 @@
+[
+  {
+    "username": "admin.kyawama-emerald",
+    "password": "admin123",
+    "displayName": "Site Administrator",
+    "role": "Administrator"
+  },
+  {
+    "username": "accountant.kyawama-emerald",
+    "password": "acct123",
+    "displayName": "Mine Accountant",
+    "role": "Accountant"
+  },
+  {
+    "username": "supervisor.kyawama-emerald",
+    "password": "sup123",
+    "displayName": "Mine Supervisor",
+    "role": "Supervisor"
+  },
+  {
+    "username": "operator.kyawama-emerald",
+    "password": "op123",
+    "displayName": "Mine Operator",
+    "role": "Operator"
+  }
+]

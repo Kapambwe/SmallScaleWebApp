@@ -1,0 +1,17 @@
+[
+  {
+    "id": "PROD-030",
+    "siteId": "SITE-030",
+    "siteName": "Konkola Deep Mine Level 4",
+    "mineralType": "Copper",
+    "quantityKg": 850000,
+    "gradeCategory": "Grade A LME",
+    "productionDate": "2024-10-31",
+    "recordedBy": "EMP-001",
+    "reportedToAuthority": true,
+    "royaltyPaid": true,
+    "royaltyAmount": 1275000,
+    "estimatedValue": 8500000,
+    "notes": "Monthly deep underground copper cathode production"
+  }
+]

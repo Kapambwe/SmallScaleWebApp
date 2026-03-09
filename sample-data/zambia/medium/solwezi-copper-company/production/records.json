@@ -1,0 +1,32 @@
+[
+  {
+    "id": "PROD-020",
+    "siteId": "SITE-020",
+    "siteName": "Solwezi Open-Pit Copper Site",
+    "mineralType": "Copper",
+    "quantityKg": 12500,
+    "gradeCategory": "Grade A",
+    "productionDate": "2024-10-31",
+    "recordedBy": "EMP-001",
+    "reportedToAuthority": true,
+    "royaltyPaid": true,
+    "royaltyAmount": 18750,
+    "estimatedValue": 125000,
+    "notes": "Monthly open-pit copper ore extraction"
+  },
+  {
+    "id": "PROD-021",
+    "siteId": "SITE-021",
+    "siteName": "Solwezi Underground Shaft B",
+    "mineralType": "Copper",
+    "quantityKg": 6800,
+    "gradeCategory": "Grade A",
+    "productionDate": "2024-10-31",
+    "recordedBy": "EMP-002",
+    "reportedToAuthority": true,
+    "royaltyPaid": true,
+    "royaltyAmount": 10200,
+    "estimatedValue": 68000,
+    "notes": "Underground blasting and extraction"
+  }
+]
