@@ -1,0 +1,56 @@
+{
+  "id": "IND-003",
+  "fullName": "Mulenga Zulu",
+  "nationalId": "345678/12/1",
+  "phoneNumber": "+260 977 300 300",
+  "email": "zulu.ceramics@example.zm",
+  "whatsAppNumber": "+260 977 300 300",
+  "gpsLocation": "-15.4200, 28.3100",
+  "physicalAddress": "Plot 300, Industrial Area",
+  "district": "Lusaka",
+  "province": "Lusaka",
+  "businessName": "Zulu Ceramics",
+  "type": "CeramicTiles",
+  "yearsOfExperience": 9,
+  "productionCapacity": "2000 tiles/month",
+  "numberOfEmployees": 6,
+  "workspaceSize": 150,
+  "workspaceCondition": "Excellent",
+  "equipmentOwned": [
+    "Kiln",
+    "Tile press",
+    "Glazing equipment"
+  ],
+  "hasElectricity": true,
+  "hasWater": true,
+  "hasStorageFacilities": true,
+  "mainProducts": [
+    "Floor tiles",
+    "Wall tiles",
+    "Decorative tiles"
+  ],
+  "secondaryProducts": [
+    "Ceramic pots",
+    "Vases"
+  ],
+  "canDoCustomWork": true,
+  "qualityLevel": 87,
+  "pacraRegistration": "PACRA-2017-300",
+  "zraTaxNumber": "ZRA-TIN-300",
+  "councilLicense": "LDC-TRADE-300",
+  "status": "Verified",
+  "monthlyRevenue": 32000,
+  "ordersCompleted": 68,
+  "certificationsEarned": 3,
+  "trainingsCompleted": 12,
+  "readinessScore": 85,
+  "marketplaceVisibilityRating": 5,
+  "exportReadinessScore": 72,
+  "certificationsAchieved": [
+    "ZABS Quality Standard",
+    "SME Excellence Award"
+  ],
+  "qualityStandard": "Level3_ZABSCertified",
+  "registrationDate": "2017-06-15T00:00:00",
+  "lastUpdated": "2026-04-24T00:00:00"
+}

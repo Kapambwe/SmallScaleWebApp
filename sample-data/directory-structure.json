@@ -1,0 +1,28 @@
+{
+  "zambia": {
+    "small-scale": [
+      "kyawama-emerald-cooperative",
+      "mkushi-copper-collective",
+      "mumbwa-gold-miners"
+    ],
+    "medium": [
+      "solwezi-copper-company",
+      "kalumbila-quarries"
+    ],
+    "large-scale": [
+      "konkola-copper-mines",
+      "mopani-copper-mines"
+    ]
+  },
+  "south-africa": {
+    "small-scale": [
+      "namaqualand-diamond-diggers"
+    ],
+    "medium": [
+      "barberton-sheba-mine"
+    ],
+    "large-scale": [
+      "sibanye-stillwater-gold"
+    ]
+  }
+}
