@@ -28,6 +28,14 @@
       "kitwe-tool-makers",
       "lusaka-metal-fabricators"
     ],
+    "vehicle-spare-parts": [
+      "lusaka-auto-parts",
+      "copperbelt-gear-works"
+    ],
+    "mining-spare-parts": [
+      "kitwe-precision-engineering",
+      "solwezi-drill-bits"
+    ],
     "block-making": [
       "itimpi-brick-works",
       "lusaka-block-makers"
