@@ -22,7 +22,7 @@ main[b-tnuicjcm61] {
     pointer-events: none;
     overflow: hidden;
     z-index: 0;
-    background: #ffffff;
+    background: #f0f7ff; /* Light Blue */
 }
 
 /* Ensure content is above background but background is visible */
