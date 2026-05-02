@@ -1,9 +1,20 @@
 {
   "zambia": {
-    "agro-processing": [
+    "animal-feed-processing": [
+      "lusaka-feed-millers",
+      "copperbelt-animal-feeds"
+    ],
+    "cooking-oil-processing": [
+      "central-oil-pressers",
+      "eastern-sunflower-oil"
+    ],
+    "honey-processing": [
       "zambia-honey-collective",
-      "lusaka-oil-pressers",
-      "mkushi-agro-hub"
+      "northwestern-bee-keepers"
+    ],
+    "fruit-processing": [
+      "mwinilunga-pineapple-canners",
+      "southern-fruit-juice"
     ],
     "furniture-making": [
       "copperbelt-woodwork-coop",
@@ -17,13 +28,17 @@
       "kitwe-tool-makers",
       "lusaka-metal-fabricators"
     ],
+    "block-making": [
+      "itimpi-brick-works",
+      "lusaka-block-makers"
+    ],
     "ceramic-tiles": [
       "zulu-ceramics",
-      "itimpi-brick-works"
+      "copperbelt-tile-factory"
     ]
   },
   "south-africa": {
-    "agro-processing": [
+    "fruit-processing": [
       "paarl-fruit-processors"
     ],
     "furniture-making": [
