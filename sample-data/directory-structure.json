@@ -1,28 +1,36 @@
 {
   "zambia": {
-    "small-scale": [
-      "kyawama-emerald-cooperative",
-      "mkushi-copper-collective",
-      "mumbwa-gold-miners"
+    "agro-processing": [
+      "zambia-honey-collective",
+      "lusaka-oil-pressers",
+      "mkushi-agro-hub"
     ],
-    "medium": [
-      "solwezi-copper-company",
-      "kalumbila-quarries"
+    "furniture-making": [
+      "copperbelt-woodwork-coop",
+      "ndola-furniture-makers"
     ],
-    "large-scale": [
-      "konkola-copper-mines",
-      "mopani-copper-mines"
+    "cloth-making": [
+      "lusaka-tailoring-centre",
+      "chipata-textiles-group"
+    ],
+    "equipment-manufacturing": [
+      "kitwe-tool-makers",
+      "lusaka-metal-fabricators"
+    ],
+    "ceramic-tiles": [
+      "zulu-ceramics",
+      "itimpi-brick-works"
     ]
   },
   "south-africa": {
-    "small-scale": [
-      "namaqualand-diamond-diggers"
+    "agro-processing": [
+      "paarl-fruit-processors"
     ],
-    "medium": [
-      "barberton-sheba-mine"
+    "furniture-making": [
+      "knysna-wood-craft"
     ],
-    "large-scale": [
-      "sibanye-stillwater-gold"
+    "shoe-making": [
+      "durban-leather-works"
     ]
   }
 }
